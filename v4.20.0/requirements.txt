@@ -1,0 +1,13 @@
+numpy
+polars
+pyparse
+pyarrow
+matplotlib
+seaborn
+pandas
+scipy
+radian
+plotly
+pysqlite3-binary
+pyyaml
+six
